@@ -15,3 +15,11 @@
 **Thoughts:** Still going through the area I am quite familiar with, case statements are quite handy although I have never remembered to use them. Stopped at the neat little challenge to write a blackjack counting code, looking forward to solve it tomorrow.
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 3: February 22, 2019
+
+**Today's Progress**: JS Basics on FCC, Objects with Properties, Nested Objects and Arrays, While, For, Do..While loops and several challenges.
+
+**Thoughts:** Pretty straightforward lessons on arrays, objects, and properties along with various loops. Did couple of challenges though, they required some thought. Firstly, counting cards, then album collection and finally profile lookup. Good days with 2+ hours of code.
+
+**Link to work:** https://learn.freecodecamp.org/
