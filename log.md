@@ -23,3 +23,11 @@
 **Thoughts:** Pretty straightforward lessons on arrays, objects, and properties along with various loops. Did couple of challenges though, they required some thought. Firstly, counting cards, then album collection and finally profile lookup. Good days with 2+ hours of code.
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 4: February 23, 2019
+
+**Today's Progress**: JS Basics on FCC, challenges - generating random whole or float numbers
+
+**Thoughts:** Yesterday's enthusiasm was followed with a not very enthusiastic day. Perhaps the concepts of random float and whole numbers and all that fuss are easier to grasp, however I found it quite difficult to wrap my head around them. Just made the hour of code, tommorrow will be better.
+
+**Link to work:** https://learn.freecodecamp.org/
