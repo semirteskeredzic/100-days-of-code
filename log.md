@@ -31,3 +31,11 @@
 **Thoughts:** Yesterday's enthusiasm was followed with a not very enthusiastic day. Perhaps the concepts of random float and whole numbers and all that fuss are easier to grasp, however I found it quite difficult to wrap my head around them. Just made the hour of code, tommorrow will be better.
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 5: February 24, 2019
+
+**Today's Progress**: JS Basics on FCC, started ES6 track, challenges with JS Basics & intro to ES6
+
+**Thoughts:** This was an OK day. First there were parseInt functions and then ternary operators, and writing inline functions. After that, I started the ES6 part, I've also done most of the challenges before, but it's needless to say that the current on job php demand really made me more or less forget some of the concepts there. Firstly there were some other notions of declaring variables by using let and const and then using arrow functions. The hardest challenge was the use of rest operator. All in all not bad, looking forward to the day 6.
+
+**Link to work:** https://learn.freecodecamp.org/
