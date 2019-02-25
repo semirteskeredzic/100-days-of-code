@@ -39,3 +39,11 @@
 **Thoughts:** This was an OK day. First there were parseInt functions and then ternary operators, and writing inline functions. After that, I started the ES6 part, I've also done most of the challenges before, but it's needless to say that the current on job php demand really made me more or less forget some of the concepts there. Firstly there were some other notions of declaring variables by using let and const and then using arrow functions. The hardest challenge was the use of rest operator. All in all not bad, looking forward to the day 6.
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 6: February 25, 2019
+
+**Today's Progress**: ES6 Track on FCC, Usage of Destructuring assignments
+
+**Thoughts:** Here's monday and another day kicks in. Did several challenges all about the usage of destructuring assignments. Firstly I didn't quite get it, but after few forum posts and step by step insight (accompanied with the careful reading of the task) I've got it all. Good day.
+
+**Link to work:** https://learn.freecodecamp.org/
