@@ -47,3 +47,12 @@
 **Thoughts:** Here's monday and another day kicks in. Did several challenges all about the usage of destructuring assignments. Firstly I didn't quite get it, but after few forum posts and step by step insight (accompanied with the careful reading of the task) I've got it all. Good day.
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 7: February 26, 2019
+
+**Today's Progress**: ES6 Track on FCC, Template literals, declarative functions, class sytnax with constructors
+
+**Thoughts:** Continuing with ES6, it's template literals and declarative functions, quite straightforward. The class syntax and the constructors are quite similar to php OOP with declaration of classes and constructors (even abstract classes).
+
+**Link to work:** https://learn.freecodecamp.org/
+
