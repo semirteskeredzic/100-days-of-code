@@ -56,3 +56,10 @@
 
 **Link to work:** https://learn.freecodecamp.org/
 
+### Day 8: February 27, 2019
+
+**Today's Progress**: ES6 Track on FCC, Getters and Setters, Import and Require
+
+**Thoughts:** I have finalized ES6 track. Getters and setters were quite simple to grasp perhaps because I went through them in php oop. 
+
+**Link to work:** https://learn.freecodecamp.org/
