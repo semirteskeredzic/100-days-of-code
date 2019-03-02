@@ -72,3 +72,10 @@
 
 **Link to work:** https://learn.freecodecamp.org/
 
+### Day 10: March 2, 2019
+
+**Today's Progress**: Codeigniter Application Development Framework
+
+**Thoughts:** The day after the national holiday I went with something different - Codeigniter. This is an app dev framework based on php, it claims it's fast and small, without unneccessary stuff. I installed it on localhost along with a new mysql db on phpmyadmin (using mamp). Went through the half of the tutorial, after that the plan is to finish tutorial and go through the rest of the documentation.
+
+**Link to work:** https://www.codeigniter.com
