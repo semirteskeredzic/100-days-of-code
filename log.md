@@ -63,3 +63,12 @@
 **Thoughts:** I have finalized ES6 track. Getters and setters were quite simple to grasp perhaps because I went through them in php oop. 
 
 **Link to work:** https://learn.freecodecamp.org/
+
+### Day 9: February 28, 2019
+
+**Today's Progress**: Regular Expressions Track on FCC, Matching everything and anything
+
+**Thoughts:** Good part on regex is done, mostly matching strings, various scenarios.
+
+**Link to work:** https://learn.freecodecamp.org/
+
