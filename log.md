@@ -87,3 +87,11 @@
 **Thoughts:** Second day of fiddling with Codeigniter app dev framework, after yesterday's creation of seed data in mysql db, I followed the documentation in creating queris in the model, then tying the model to the views with the controller. Only couple of steps are left to be done in the news tutorial part of the documentaiton.
 
 **Link to work:** https://www.codeigniter.com
+
+### Day 12: March 4, 2019
+
+**Today's Progress**: php connecting updating and manipulating db through PDO
+
+**Thoughts:** Today I'm continuing where I left off in the book about PHP OOP. It's 17th chapter and it's about creating a connection, and manipulating with the data inside the database through PDO.
+
+**Link to work:** https://localhost:8888
