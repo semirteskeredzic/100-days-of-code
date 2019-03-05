@@ -95,3 +95,11 @@
 **Thoughts:** Today I'm continuing where I left off in the book about PHP OOP. It's 17th chapter and it's about creating a connection, and manipulating with the data inside the database through PDO.
 
 **Link to work:** https://localhost:8888
+
+### Day 13: March 5, 2019
+
+**Today's Progress**: php connecting updating and manipulating db through PDO, MVC concept
+
+**Thoughts:** Finished the book about OOP PHP with the coding exercise that included methods for inserting new records, updating, showing and deleting. The end of the book also taught a little about the MVC concept.
+
+**Link to work:** https://localhost:8888
