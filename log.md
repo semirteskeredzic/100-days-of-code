@@ -103,3 +103,11 @@
 **Thoughts:** Finished the book about OOP PHP with the coding exercise that included methods for inserting new records, updating, showing and deleting. The end of the book also taught a little about the MVC concept.
 
 **Link to work:** https://localhost:8888
+
+### Day 14: March 6, 2019
+
+**Today's Progress**: Learning about The strategy design pattern in in php
+
+**Thoughts:** I will dedicate the next couple of days to studying about the design patterns in php. Today I went through the strategy design pattern. It explained the use of interfaces, and then the selector code and the use of client class.
+
+**Link to work:** https://phpenthusiast.com/blog/strategy-pattern-the-power-of-interface
